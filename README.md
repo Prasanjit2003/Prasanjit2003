@@ -1,8 +1,8 @@
 # <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4C1D95,25:6D28D9,50:7C3AED,75:4338CA,100:312E81&text=Prasanjit%20Behera&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4C1D95,25:6D28D9,50:7C3AED,75:4338CA,100:312E81&text=Prasanjit%20Behera&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=60&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+%7C+Microservices;Building+Scalable+Enterprise+Applications;Cloud+Native+%7C+DevOps+%7C+AI+Engineering;Open+Source+Contributor+and+Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+%7C+Microservices;Building+Scalable+Enterprise+Applications;Cloud+Native+%7C+DevOps;Open+Source+Contributor+and+Problem+Solver)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,7 +14,7 @@
 <br/>
 
 ![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-6D28D9?style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/prasanjitbehera)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prasanjitbehera/)
 [![Email](https://img.shields.io/badge/Email-Contact-6366F1?style=for-the-badge&logo=gmail)](mailto:beheraprasanjit779@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github)](https://github.com/Prasanjit2003)
 
@@ -80,18 +80,22 @@ I focus on:
 
 ---
 
-# AI / ML Expertise
+# Engineering Expertise
 
 | Domain | Proficiency | Details |
 |----------|------------|----------|
-| Generative AI | Intermediate | LLM integrations, prompt engineering, AI-assisted development |
-| Machine Learning | Intermediate | Model workflows, supervised learning concepts |
-| AI Applications | Advanced | AI-enabled enterprise application design |
-| Data Engineering | Intermediate | Data processing and backend integration |
-| MLOps Awareness | Intermediate | CI/CD concepts for ML deployment |
-| Intelligent Automation | Advanced | Workflow automation and business process optimization |
-| AI Product Engineering | Advanced | AI-powered enterprise software solutions |
-| Cloud AI Services | Intermediate | AWS-based AI ecosystem understanding |
+| Java Development | Advanced | Core Java, OOP, Collections, Exception Handling, Multithreading Fundamentals |
+| Spring Ecosystem | Advanced | Spring Boot, Spring MVC, Spring Security, Spring Data JPA |
+| Backend Development | Advanced | REST APIs, Authentication, Authorization, Business Logic Implementation |
+| Full Stack Development | Advanced | React.js, JavaScript ES6+, HTML5, CSS3, Backend Integration |
+| Database Engineering | Advanced | MySQL, PostgreSQL, Query Optimization, Database Design |
+| Microservices Architecture | Intermediate | Service-Based Architecture, API Communication, Distributed Systems Concepts |
+| DevOps & CI/CD | Intermediate | Docker, Jenkins, GitHub Actions, Deployment Pipelines |
+| Cloud Technologies | Intermediate | AWS EC2, S3, RDS Fundamentals |
+| Software Engineering | Advanced | SDLC, Agile, Code Reviews, Testing, Debugging, Documentation |
+| Enterprise Applications | Advanced | Banking Systems, Workflow Automation, Business Process Management |
+| Security Implementation | Intermediate | JWT Authentication, RBAC, API Security, Access Control |
+| System Design | Intermediate | SOLID Principles, Design Patterns, Clean Architecture |
 
 ---
 
@@ -319,7 +323,7 @@ Open_To:
 
 [![Gmail](https://img.shields.io/badge/Gmail-beheraprasanjit779%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:beheraprasanjit779@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasanjit%20Behera-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/prasanjitbehera)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasanjit%20Behera-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prasanjitbehera/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Prasanjit2003)
 
