@@ -14,16 +14,11 @@
 <br/>
 
 ![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-6D28D9?style=flat-square)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prasanjit-behera)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/prasanjitbehera)
 [![Email](https://img.shields.io/badge/Email-Contact-6366F1?style=for-the-badge&logo=gmail)](mailto:beheraprasanjit779@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github)](https://github.com/Prasanjit2003)
 
 <br/>
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=6D28D9)
-![](https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=4338CA)
 
 </div>
 
@@ -125,7 +120,7 @@ Developed secure banking workflows for customer onboarding, document verificatio
 <details>
 <summary><b>⚙️ Workflow Automation System</b></summary>
 
-### Enterprise Process Automation Platform
+### Enterprise Workflow Automation Platform
 
 | Metric | Details |
 |---------|----------|
@@ -236,34 +231,9 @@ Designing and developing enterprise-grade applications with focus on backend eng
 
 ![AWS Cloud](https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws)
 
-## Oracle
-
-![Oracle Java](https://img.shields.io/badge/Oracle-Java-FF0000?style=for-the-badge&logo=oracle)
-
-## NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-6D28D9?style=for-the-badge)
-
-## Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
-
 ## Professional Training
 
 ![Workopolis](https://img.shields.io/badge/Workopolis-Java%20Full%20Stack%20Development-7C3AED?style=for-the-badge)
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-0F9D58?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Developer-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge)](https://www.codechef.com/)
-
-</div>
 
 ---
 
@@ -271,11 +241,11 @@ Designing and developing enterprise-grade applications with focus on backend eng
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prasanjit2003&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Prasanjit2003&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanjit2003&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -285,7 +255,7 @@ Designing and developing enterprise-grade applications with focus on backend eng
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Prasanjit2003&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -295,7 +265,7 @@ Designing and developing enterprise-grade applications with focus on backend eng
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prasanjit2003&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -305,7 +275,7 @@ Designing and developing enterprise-grade applications with focus on backend eng
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Prasanjit2003/Prasanjit2003/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -349,11 +319,9 @@ Open_To:
 
 [![Gmail](https://img.shields.io/badge/Gmail-beheraprasanjit779%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:beheraprasanjit779@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasanjit%20Behera-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prasanjit-behera)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasanjit%20Behera-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/prasanjitbehera)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-7C3AED?style=for-the-badge)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Prasanjit2003)
 
 </div>
 
