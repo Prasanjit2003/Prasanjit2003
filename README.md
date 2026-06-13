@@ -275,16 +275,6 @@ Designing and developing enterprise-grade applications with focus on backend eng
 
 ---
 
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Prasanjit2003/Prasanjit2003/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 # Current Focus
 
 ```yaml
