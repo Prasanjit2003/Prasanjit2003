@@ -26,7 +26,7 @@
 
 # About Me
 
-Software Engineer with **2.5+ years of professional experience** designing, developing, and maintaining enterprise-grade applications using Java, Spring Boot, React.js, REST APIs, Microservices, SQL databases, and modern DevOps practices. Built scalable backend services, secure authentication systems, workflow automation platforms, and banking solutions across enterprise environments. Based on professional experience documented in my resume. :contentReference[oaicite:0]{index=0}
+Software Engineer with **2.5+ years of professional experience** designing, developing, and maintaining enterprise-grade applications using Java, Spring Boot, React.js, REST APIs, Microservices, SQL databases, and modern DevOps practices. Built scalable backend services, secure authentication systems, workflow automation platforms, and banking solutions across enterprise environments. Based on professional experience documented in my resume.
 
 I focus on:
 
