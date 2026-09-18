@@ -8,7 +8,7 @@
 
 ![B.Tech](https://img.shields.io/badge/B.Tech-SUIIT%20Sambalpur%20University-6D28D9?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-Full%20Stack%20Developer-7C3AED?style=for-the-badge)
-![Experience](https://img.shields.io/badge/Experience-2.5%2B%20Years-4338CA?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Experience-2.7%2B%20Years-4338CA?style=for-the-badge)
 ![Enterprise](https://img.shields.io/badge/Enterprise-Software%20Engineering-4F46E5?style=for-the-badge)
 
 <br/>
